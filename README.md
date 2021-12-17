@@ -1,4 +1,4 @@
 # funtimes
-Just a test repo for a demo
+Just a test repo for a demo.
 
-Fixed that
+Fixed that.
